@@ -10,14 +10,9 @@ Site is responsive, it has firebase authentication and a collection of e-mails i
 - User can post reviews.
 - User will be able to see their work progress through the status.
 
-### Admin
-- An admin can add services and make more admins.
-- Admin will be able to change the status of orders.
-
 
 ### Technologies Used 
 - React.js
-- Base64
 - Swiper.js
 - Node.js
 - MongoDB
@@ -27,4 +22,4 @@ Site is responsive, it has firebase authentication and a collection of e-mails i
 - Heroku
 
 ### [LIVE](https://creative-agency-f.web.app/)
-### [Backend Repository](https://github.com/mohammad-fahad/creative-agency-server)
+
